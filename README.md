@@ -17,6 +17,7 @@ Linux için :
 
 ```bash 
 cd kodluyoruzilkrepo
+code .
 ```
 ## Contributing
 
