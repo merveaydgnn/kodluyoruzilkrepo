@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-Bu repo [Kodluyoruz][https://kodluyoruz.org/?gclid=CjwKCAjw4JWZBhApEiwAtJUN0OUMq5QlkCcLtqtuA7xZ7fTCrTNxRGGKrNdgIwE5YxEmqDYRYavFZxoCS9YQAvD_BwE] Java Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://kodluyoruz.org/?gclid=CjwKCAjw4JWZBhApEiwAtJUN0OUMq5QlkCcLtqtuA7xZ7fTCrTNxRGGKrNdgIwE5YxEmqDYRYavFZxoCS9YQAvD_BwE) Java Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 [img][/img]
 
@@ -18,4 +18,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Licence
 
-[MIT][https://opensource.org/licenses/MIT]
+[MIT](https://opensource.org/licenses/MIT)
