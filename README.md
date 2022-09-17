@@ -1,24 +1,23 @@
 # Kodluyoruz İlk Repo
 Bu repo [Kodluyoruz](https://kodluyoruz.org/?gclid=CjwKCAjw4JWZBhApEiwAtJUN0OUMq5QlkCcLtqtuA7xZ7fTCrTNxRGGKrNdgIwE5YxEmqDYRYavFZxoCS9YQAvD_BwE) Java Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-[img][Proje/img.png]
+![img][Proje/img.png]
 
 ## Installation
 
 Öncelikle projeyi clonlayın. (Buraya sizin reponuzdan aldığınız link gelecek.)
 
-'''bash
+```bash
 git clone https://github.com/merveaydgnn/kodluyoruzilkrepo.git
-
-'''
+```
 ## Usage
 Projeyi cloneladıktan sonra sonra Visual Studio Code programında açınız
 
 Linux için :
 
-'''bash 
+```bash 
 cd kodluyoruzilkrepo
-'''
+```
 ## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için konu seçin.
