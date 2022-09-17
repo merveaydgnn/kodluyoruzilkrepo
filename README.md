@@ -1,2 +1,2 @@
-# kodluyoruzilkrepo
-Kodluyoruz Java Eğitimi Kapsamında Açtığım İlk Repo
+# Kodluyoruz İlk Repo
+Bu repo Kodluyoruz Java Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
