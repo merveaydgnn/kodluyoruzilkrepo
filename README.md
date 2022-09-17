@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo
 Bu repo [Kodluyoruz](https://kodluyoruz.org/?gclid=CjwKCAjw4JWZBhApEiwAtJUN0OUMq5QlkCcLtqtuA7xZ7fTCrTNxRGGKrNdgIwE5YxEmqDYRYavFZxoCS9YQAvD_BwE) Java Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![img][img.png]
+![img](img.png)
 
 ## Installation
 
